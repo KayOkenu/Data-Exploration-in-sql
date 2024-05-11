@@ -15,5 +15,5 @@ This project contains code to:
 --The number of people vaccinated day by day.
 Files: The following files are included in this repository:
 1. SQL script containing code for exploring and analyzing two datasets.
-2. The raw datasets before analysis.
+2. Link to the raw datasets.
 Contributions are welcome! Feel free to explore these files to gain a better understanding of the project.
